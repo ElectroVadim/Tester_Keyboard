@@ -1,0 +1,15 @@
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\bin\Debug\KeyboardsTester2.exe.config
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\bin\Debug\KeyboardsTester2.exe
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\bin\Debug\KeyboardsTester2.pdb
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.csprojResolveAssemblyReference.cache
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.Form1.resources
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.Properties.Resources.resources
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.csproj.GenerateResource.Cache
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.exe
+c:\users\ostapchuk_v\documents\visual studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.pdb
+C:\Users\ostapchuk_v\Documents\Visual Studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\bin\Debug\ja\KeyboardsTester2.resources.dll
+C:\Users\ostapchuk_v\Documents\Visual Studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\bin\Debug\ru-RU\KeyboardsTester2.resources.dll
+C:\Users\ostapchuk_v\Documents\Visual Studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.Form1.ja.resources
+C:\Users\ostapchuk_v\Documents\Visual Studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\KeyboardsTester2.Form1.ru-RU.resources
+C:\Users\ostapchuk_v\Documents\Visual Studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\ja\KeyboardsTester2.resources.dll
+C:\Users\ostapchuk_v\Documents\Visual Studio 2013\Projects\KeyboardsTester2\KeyboardsTester2\obj\Debug\ru-RU\KeyboardsTester2.resources.dll
